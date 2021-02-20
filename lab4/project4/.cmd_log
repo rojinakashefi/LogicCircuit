@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Users/f/Desktop/rojina/madar Manteghi/p4/project4/xnor.v} -lang verilog -prj project4 -o .spl -module {} -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj project4 -o "C:/Users/f/Desktop/rojina/madar Manteghi/p4/project4/.tfi" -lib work "C:/Users/f/Desktop/rojina/madar Manteghi/p4/project4//xnor.v" -module "" -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
